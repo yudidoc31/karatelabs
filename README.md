@@ -9,3 +9,6 @@ Use the official Karate IDE plugins for the best developer experience:
 
 Karate extension for Visual Studio Code
 Karate plugin for IntelliJ IDEA
+
+INtructions
+You can use GitHub Codespaces to open this project directly in your browswer ! The default image includes Java and Maven, so you can skip the "Prerequisites" section below and go directly to Verify Setup. Make sure you install the Karate extension for Visual Studio Code in your Codespace. The Karate extension for VS Code can also be run in a Docker based devcontainer.
